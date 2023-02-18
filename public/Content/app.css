@@ -1,3 +1,9 @@
+/*
+File Name   : app.css
+Name        : Christy Jose
+Student Id  : 301244185
+Date        : 04-Feb-2023
+*/
 /* custom css goes here */
 *, *:before, *:after {
   box-sizing: border-box;
@@ -41,7 +47,7 @@ button{
 
 
 .screen-body {
-  display: inline-flex;
+  display: flex;
 }
 
 .screen-body-item {
@@ -69,7 +75,7 @@ button{
 .app-title:after {
   content: '';
   display: block;
-  position: absolute;
+  position: center;
   left: 0;
   bottom: -10px;
   width: 25px;
@@ -97,14 +103,12 @@ button{
 }
 
 .app-form-control {
-  width: 100%;
   padding: 10px 0;
   background: none;
   border: none;
   border-bottom: 1px solid #666;
   color: #ddd;
   font-size: 14px;
-  text-transform: uppercase;
   outline: none;
   transition: border-color .2s;
 }
@@ -156,7 +160,7 @@ button{
   }
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 700px) {
   .screen-body {
     padding: 40px;
   }
