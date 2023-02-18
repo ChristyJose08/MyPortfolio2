@@ -29,16 +29,16 @@
     "passport-local-mongoose": "^6.0.1",
     "popper.js": "^1.16.1"
   },
-  "description": "my portfolio assignment",
+  "description": "my portfolio assignment - authentication",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChristyJose08/Portfolio-Assigment.git"
+    "url": "git+https://github.com/ChristyJose08/MyPortfolio2.git"
   },
   "author": "Christy Jose",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ChristyJose08/Portfolio-Assigment/issues"
+    "url": "https://github.com/ChristyJose08/MyPortfolio2.git/issues"
   },
   "homepage": "https://github.com/ChristyJose08/Portfolio-Assigment#readme",
   "devDependencies": {
