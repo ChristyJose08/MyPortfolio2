@@ -102,12 +102,25 @@ button{
   text-align: right;
 }
 
+.app-form-control-header {
+  padding: 10px 0;
+  background: brown;
+  border: none;
+  border-bottom: 1px solid #666;
+  color: white;
+  font-size: 14px;
+  outline: none;
+  transition: border-color .2s;
+}
+
+
+
 .app-form-control {
   padding: 10px 0;
   background: none;
   border: none;
   border-bottom: 1px solid #666;
-  color: #ddd;
+  color: #dddddd;
   font-size: 14px;
   outline: none;
   transition: border-color .2s;
